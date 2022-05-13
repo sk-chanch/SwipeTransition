@@ -1,0 +1,4 @@
+module SwipeTransitionAutoSwipeToDismiss {
+    umbrella "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/Automation/AutoSwipeToDismiss/include"
+    export *
+}

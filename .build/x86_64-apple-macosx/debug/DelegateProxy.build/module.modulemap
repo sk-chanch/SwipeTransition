@@ -1,0 +1,4 @@
+module DelegateProxy {
+    umbrella header "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/DelegateProxy/include/DelegateProxy.h"
+    export *
+}

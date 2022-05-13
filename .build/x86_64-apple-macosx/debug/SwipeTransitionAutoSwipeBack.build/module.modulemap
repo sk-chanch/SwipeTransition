@@ -1,0 +1,4 @@
+module SwipeTransitionAutoSwipeBack {
+    umbrella "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/Automation/AutoSwipeBack/include"
+    export *
+}

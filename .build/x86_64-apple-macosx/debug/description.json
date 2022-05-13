@@ -1,0 +1,281 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SwipeTransition-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/AssocKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/Context.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/DelegateProxy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/InteractiveTransition.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/OneFingerDirectionalPanGestureRecognizer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackAnimator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackContext.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackNavigationController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/DismissAnimator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissContext.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissNavigationController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/TransitionHandleable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/DelegateProxy.build/DelegateProxy.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransitionAutoSwipeBack.build/UINavigationController+AutoSwipeBack.m.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransitionAutoSwipeToDismiss.build/UINavigationController+AutoSwipeToDismiss.m.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SwipeTransition",
+      "moduleOutputPath" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.swiftmodule",
+      "objects" : [
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/AssocKey.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/Context.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/DelegateProxy.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/InteractiveTransition.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/OneFingerDirectionalPanGestureRecognizer.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackAnimator.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackConfiguration.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackContext.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackController.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackExtensions.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackNavigationController.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/DismissAnimator.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissConfiguration.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissContext.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissController.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissExtensions.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissNavigationController.swift.o",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/TransitionHandleable.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransitionAutoSwipeToDismiss.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/Automation/AutoSwipeToDismiss/include",
+        "-Xcc",
+        "-fmodule-map-file=/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransitionAutoSwipeBack.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/Automation/AutoSwipeBack/include",
+        "-Xcc",
+        "-fmodule-map-file=/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/DelegateProxy.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/DelegateProxy/include",
+        "-module-cache-path",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeTransition-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/AssocKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/Context.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/DelegateProxy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/InteractiveTransition.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/OneFingerDirectionalPanGestureRecognizer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackAnimator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackContext.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeBack/SwipeBackNavigationController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/DismissAnimator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissContext.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/SwipeToDismiss/SwipeToDismissNavigationController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build/TransitionHandleable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/AssocKey.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/Context.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/DelegateProxy.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/InteractiveTransition.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/OneFingerDirectionalPanGestureRecognizer.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackAnimator.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackConfiguration.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackContext.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackController.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackExtensions.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeBack/SwipeBackNavigationController.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/DismissAnimator.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissConfiguration.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissContext.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissController.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissExtensions.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/SwipeToDismiss/SwipeToDismissNavigationController.swift",
+        "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/Sources/SwipeTransition/TransitionHandleable.swift"
+      ],
+      "tempsPath" : "/Volumes/THUNDER-WORK/GitHub/SwipeTransition/.build/x86_64-apple-macosx/debug/SwipeTransition.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

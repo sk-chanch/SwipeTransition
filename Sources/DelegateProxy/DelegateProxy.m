@@ -6,7 +6,7 @@
 //  Copyright © 2017年 tattn. All rights reserved.
 //
 
-#import "DelegateProxy.h"
+#import "include/DelegateProxy.h"
 
 @interface STDelegateProxy ()
 @property (nonnull, nonatomic, strong) NSHashTable<NSObject *> *delegates;
